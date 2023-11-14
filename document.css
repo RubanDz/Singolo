@@ -58,9 +58,12 @@ ul {
       padding: 20px; /*Figma*/
       color: white;
       text-transform: uppercase;
+   }
+   .menu a:hover {
+      color: lightgreen;
+   }
 
      
-   }
    .navigationMenu {
       max-height: 0;
       transition: max-height .5s ease-out;
