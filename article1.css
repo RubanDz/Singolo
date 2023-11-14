@@ -90,5 +90,16 @@
          row-gap: 20px;
          padding: 30px 80px 30px 80px;
       }
+      .footer li {
+         display: inline;
+         margin-left: 40px;
+         color: white;
+         font-size: 20px;
+         font-weight: bolder;
+      }
+      .footer li:hover {
+         color: lightgreen;
+      }
+        
      
          
