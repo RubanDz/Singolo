@@ -1,4 +1,4 @@
-article {
+.first {
    height: 600px;
    background-color: #F06C64;
 }
@@ -28,4 +28,9 @@ article {
          left: 5px;
       }
 }
-      
+      /*Вторая часть second*/
+      .second {
+         width: 100%;
+         height: 500px;
+         background-color: white;
+      }
