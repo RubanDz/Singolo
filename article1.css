@@ -8,3 +8,10 @@ article {
    top: 40px;
    left: 20%;
 }
+@media (max-width: 680px) {
+   img {
+      max-width: 88%;
+      max-height: 40%;
+      
+   }
+}
