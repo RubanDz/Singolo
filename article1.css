@@ -14,4 +14,18 @@ article {
       max-height: 40%;
       
    }
+   .slaider {
+      position: relative;
+      left: 2px;
+   }
 }
+@media (max-width: 1020px) {
+   img {
+      max-width: 70%;
+      max-height: 50%;}
+      .slaider {
+         position: relative;
+         left: 5px;
+      }
+}
+      
