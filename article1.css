@@ -57,6 +57,38 @@
          font-weight: 400;
          font-size: 16px;
          padding: 30px 80px 30px 80px;
-         z-index: -1;/*меню second разбивает*/
+         
       }
+
+      /*Третья часть*/
+      .third {
+         width: 100vw;
+         height: 100wv;
+         background-color: #2D303A;
+         color: #666D89;
+         font-weight: 400;
+         font-size: 16px;
+         padding: 30px 80px 30px 80px;
+      }
+      .buttons {
+         padding: 20px;
+         font-size: 20px;
+      }
+      .buttons button {
+         background-color: #2D303A;
+         color: white;
+      }
+      .buttons button:hover {
+         color: red;
+      }
+      /*grid container foto*/
+      .grid-items {
+         display: grid;
+         grid-template-columns: auto auto auto auto;
+         justify-content: center;
+         column-gap: 20px;
+         row-gap: 20px;
+         padding: 30px 80px 30px 80px;
+      }
+     
          
